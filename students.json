@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "surname": "aaa",
+    "name": "aaa",
+    "lastName": "aaa",
+    "age": 11
+  },
+  {
+    "id": 2,
+    "surname": "bbb",
+    "name": "bbb",
+    "lastName": "bbb",
+    "age": 22,
+    "course": "Python",
+    "group": "2P"
+  },
+  {
+    "id": 3,
+    "surname": "апув",
+    "name": "пувывыы",
+    "lastName": "апппвы",
+    "age": 12,
+    "course": "Java",
+    "group": "2J"
+  }
+]

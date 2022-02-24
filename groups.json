@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Java",
+    "group": [
+      {
+        "group": "1J"
+      },
+      {
+        "group": "2J"
+      },
+      {
+        "group": "3J"
+      }
+    ]
+  },
+  {
+    "name": "Python",
+    "group": [
+      {
+        "group": "1P"
+      },
+      {
+        "group": "2P"
+      },
+      {
+        "group": "3P"
+      },
+      {
+        "group": "4P"
+      }
+    ]
+  },
+  {
+    "name": "C++",
+    "group": [
+      {
+        "group": "1J"
+      },
+      {
+        "group": "2J"
+      }
+    ]
+  }
+]
